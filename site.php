@@ -28,3 +28,4 @@ $con->close();
 }
 else
 header("location:index.html");
+?>
